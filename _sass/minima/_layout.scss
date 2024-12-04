@@ -100,15 +100,17 @@
   }
 }
 
-/* Override the wrapper width to make it wider */
-.wrapper {
-  max-width: 1200px; /* Increase this value as needed */
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 15px; /* Adjust padding for smaller screens */
-  padding-right: 15px;
+body {
+  background-color: red;
 }
 
+/* Override the wrapper width to make it wider */
+.wrapper {
+  width: 100%; /* 90% of the viewport width */
+  max-width: 1200px; /* Ensure it doesn't get too wide */
+  margin-left: auto;
+  margin-right: auto;
+}
 /**
  * Site footer
  */
