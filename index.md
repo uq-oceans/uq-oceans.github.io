@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to Our Lab
 
-Our team investigates the interactions between ocean, ice, and climate systems, focusing on understanding Antarctic processes and global impacts. We partner with researchers worldwide to advance climate science.
+Our team investigates coastal and ocean sciences, focussing on understanding ocean, shoreline, atmosphere and cryosphere processes and global impacts. We partner with researchers worldwide to advance climate science.
 
 Explore our work:
 - [Research Themes](research.md)

@@ -5,9 +5,8 @@ title: Contact
 
 # Contact Us
 
-- **Email**: contact@university.edu  
-- **Phone**: +123 456 7890  
-- **Address**: University of XYZ, Department of Oceanography, City, Country  
+- **Email**: h.bostock .at. uq.edu.au 
+- **Address**: University of Queensland, School of the Environment, St. Lucia, Brisbane, QLD, Australia  
 
 Follow us on [Twitter](#) or [LinkedIn](#)!
 

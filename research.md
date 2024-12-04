@@ -5,14 +5,14 @@ title: Research Themes
 
 # Research Themes
 
-## Ice-Ocean Dynamics
-Studying the intricate interplay between ice shelves and ocean currents.
+## Ice-Ocean-Atmosphere Dynamics
+Studying the intricate interplay between ice shelves, ocean currents and the atmosphere, to understand fundamental problems such as global sea level rise and climate tipping points.
 
-## Climate Modelling
-Building advanced models to predict climate system behaviors under various scenarios.
+## Ocean Climate Modelling
+Building advanced models to simulate and predict ocean system behaviors under past, current and future scenarios.
 
-## Community Engagement
-Collaborating with stakeholders to translate research into actionable insights.
+## Paleo-oceanography
+Using old seafloor muck to tell us what the sea used to be like.
 
 ---
 
