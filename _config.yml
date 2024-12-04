@@ -1,3 +1,6 @@
 title: "University Science Lab Team"
 description: "Exploring ice-ocean-climate systems"
 theme: jekyll-theme-minimal
+markdown: kramdown
+sass:
+  style: compressed

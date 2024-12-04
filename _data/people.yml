@@ -1,0 +1,15 @@
+- name: Dr. David Gwyther
+  role: Postdoctoral Research Fellow
+  bio: Specializes in ocean-ice-climate interactions.
+  image: david.jpg
+
+- name: Jane Doe
+  role: PhD Candidate
+  bio: Focused on Antarctic ice shelf dynamics.
+  image: jane.jpg
+
+- name: John Smith
+  role: Research Scientist
+  bio: Expert in climate model development.
+  image: john.jpg
+

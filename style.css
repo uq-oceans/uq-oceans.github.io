@@ -1,0 +1,15 @@
+.team {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.member {
+  text-align: center;
+  max-width: 200px;
+}
+
+.member img {
+  border-radius: 50%;
+}
+
