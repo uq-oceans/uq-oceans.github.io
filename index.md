@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Home
-hero_text: Here is some text
 ---
 
 # Welcome to Our Lab

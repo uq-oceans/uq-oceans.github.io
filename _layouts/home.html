@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="home">
+<div class="hero">
+  <img class="feature-img" src="{{ '/assets/images/bottom_banner.png' | relative_url }}" />
+</div>
 
   {{ content }}
 
@@ -28,9 +31,6 @@ layout: default
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
-   <div class="hero">
-     {{ page.hero_text }}
-   </div>
 
 
 
