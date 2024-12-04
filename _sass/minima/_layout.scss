@@ -100,7 +100,14 @@
   }
 }
 
-
+/* Override the wrapper width to make it wider */
+.wrapper {
+  max-width: 1200px; /* Increase this value as needed */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px; /* Adjust padding for smaller screens */
+  padding-right: 15px;
+}
 
 /**
  * Site footer
