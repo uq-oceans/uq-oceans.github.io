@@ -207,9 +207,9 @@
   @include relative-font-size(1.5);
 }
 
-/* Cover Image */
+/* Banner Image */
 .hero {
-  background: url('/assets/bottombanner.png');
+  background: url('/assets/images/bottombanner.png');
   background-size: cover; /* Ensures the image covers the div */
   background-repeat: no-repeat;
   background-position: center;

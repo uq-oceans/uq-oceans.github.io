@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-banner: "/assets/bottombanner.png"
+hero_text: Here is some text
 ---
 
 # Welcome to Our Lab
