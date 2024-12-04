@@ -4,4 +4,4 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 sass:
   load_paths:
-    - _sass/minima
+    - _sass/minimal
