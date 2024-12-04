@@ -18,14 +18,3 @@
   border-radius: 50%;
 }
 
-body {
-  background-color: red;
-}
-
-/* Override the wrapper width to make it wider */
-.wrapper {
-  width: 100%; /* 90% of the viewport width */
-  max-width: 1200px; /* Ensure it doesn't get too wide */
-  margin-left: auto;
-  margin-right: auto;
-}
