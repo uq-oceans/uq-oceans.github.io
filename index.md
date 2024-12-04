@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
@@ -12,4 +12,10 @@ Explore our work:
 - [Publications](publications.md)
 - [People](people.md)
 
-
+<div style="
+  background: url('/assets/images/bottombanner.png') no-repeat center bottom;
+  background-size: cover;
+  height: 200px; /* Adjust height as needed */
+  width: 100%; /* Full width */
+">
+</div>
