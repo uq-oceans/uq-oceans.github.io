@@ -209,7 +209,10 @@
 
 /* Cover Image */
 .hero {
-  background: url('assets/bottombanner.png');
+  background: url('/assets/bottombanner.png');
+  background-size: cover; /* Ensures the image covers the div */
+  background-repeat: no-repeat;
+  background-position: center;
   }
 
 

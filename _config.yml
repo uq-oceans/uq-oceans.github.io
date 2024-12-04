@@ -3,7 +3,5 @@ description: "@ The University of Queensland"
 theme: jekyll-theme-minimal
 markdown: kramdown
 sass:
-  style: compressed
-
-stylesheets:
-  - "/assets/css/style.css"
+  load_paths:
+    - _sass/minima
