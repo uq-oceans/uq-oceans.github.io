@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+banner: "/assets/bottombanner.png"
 ---
 
 # Welcome to Our Lab

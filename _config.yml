@@ -4,3 +4,6 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 sass:
   style: compressed
+
+stylesheets:
+  - "style.css"
