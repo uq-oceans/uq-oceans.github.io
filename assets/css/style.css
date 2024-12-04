@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.team {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.member {
+  text-align: center;
+  max-width: 200px;
+}
+
+.member img {
+  border-radius: 50%;
+}
+
+.bottom-banner {
+  width: 100%;
+  background-image: url('{{ site.baseurl }}{{ page.banner }}');
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents tiling */
+  height: 200px; /* Adjust the height as needed */
+  margin-top: 50px; /* Optional: Adds space above the banner */
+  position: relative;
+}
+
+.bottom-banner-text {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: white;
+  font-size: 1.5rem;
+  background: rgba(0, 0, 0, 0.5); /* Optional: Dark background for text */
+  padding: 5px;
+}
+
