@@ -1,12 +1,14 @@
-- title: Ice-Ocean Interactions in Antarctica
-  authors: Gwyther, D., et al.
-  journal: Journal of Climate Science
+- title: Evaluating an accelerated forcing approach for improving computational efficiency in coupled ice sheet–ocean modelling
+  authors: Zhou, Zhao, Gladstone, Hatterman **Gwyther, D.**, et al.
+  journal: Geoscientific Model Development
   year: 2024
-  link: https://doi.org/example
+  link: https://doi.org/10.5194/gmd-17-8243-2024
 
-- title: Modelling Antarctic Ice Shelves
-  authors: Doe, J., et al.
-  journal: Polar Research Journal
-  year: 2023
-  link: https://doi.org/example
+- title: A review of the oceanography and Antarctic Bottom Water formation offshore Cape Darnley, East Antarctica
+  authors: **Blanckensee, S**, **Gwyther, D.**, Galton-Fenzi, Gunn, Herraiz-Borreguero, Ohshima, Portela, Post and **Bostock, H**
+  journal: Journal of Geophysical Research: Oceans
+  year: 2024
+  link:  https://doi.org/10.1029/2024JC021251
+
+
 
