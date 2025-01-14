@@ -4,17 +4,17 @@
   authors: Colette Kerry, Moninya Roughan, Shane Keating, David Gwyther 
   link:
     url: https://tos.org/oceanography/article/model-based-observing-system-evaluation-in-a-western-boundary-current-observation-impact-from-the-coherent-jet-to-the-eddy-field
-    display: Oceanography 38(Supplement 1)
+    display: In Frontiers in Ocean Observing. E.S. Kappel, V. Cullen, I.C.A. da Silveira, G. Coward, C. Edwards, P. Heimbach, T. Morris, H. Pillar, M. Roughan, and J. Wilkin, eds, Oceanography 38(Supplement 1) (2025)
   highlight: 1
 
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "A Review of the Oceanography and Antarctic Bottom Water Formation Offshore Cape Darnley, East Antarctica"
+  image: CDoceanreview.png
+  description: A review of all of the available oceanogarphy observations of Cape Darnley.
+  authors: Sienna N. Blanckensee, David E. Gwyther, Ben K. Galton-Fenzi, Kathryn L. Gunn, Laura Herraiz-Borreguero, Kay I. Ohshima, Esther Portela, Alexandra L. Post, Helen C. Bostock
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021251
+    display: Journal of Geophysical Research: Oceans, 129, e2024JC021251 (2024)
   highlight: 1
 
 - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
