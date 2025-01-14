@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "UQ Oceans group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
