@@ -1,3 +1,12 @@
+- title: "Model-Based Observing System Evaluation in a Western Boundary Current: Observation Impact from the Coherent Jet to the Eddy Field"
+  image: DAschematic.png
+  description: Data-assimilation, the process of combining observations and model estimates to produce the best possible model solution, is complicated! In this paper, Kerry et al. synthesise current understanding of this process applied to a dynamic Western Boundary Current.
+  authors: Colette Kerry, Moninya Roughan, Shane Keating, David Gwyther 
+  link:
+    url: https://tos.org/oceanography/article/model-based-observing-system-evaluation-in-a-western-boundary-current-observation-impact-from-the-coherent-jet-to-the-eddy-field
+    display: Oceanography 38(Supplement 1)
+  highlight: 1
+
 
 - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
   image: ShotNoise.png
