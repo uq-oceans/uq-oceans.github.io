@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "UQ Oceans - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "UQ Oceans -- Research"
 sitemap: false
 permalink: /research/
 ---
