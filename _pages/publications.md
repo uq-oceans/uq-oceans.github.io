@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "UQ Oceans - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "UQ Oceans -- Publications."
 sitemap: false
 permalink: /publications/
 ---
