@@ -41,21 +41,21 @@
 
 - name: Megan
   photo: megan.jpg
-  info: PhD Student
-  email: b
-  number_educ: 2
-  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
-  education2: BSc, Yonsei University
-  education3:
+  info: PhD Student, started July 2024
+  email: m.jeffers@uq.edu.au
+  number_educ: 3
+  education1: Honours with Helen Bostock and David Gwyther
+  education2: BAdvSc (hons), University of Queensland
+  education3: PhD Candidate with Helen Bostock, David Gwyther, Chris Chapman and Bernadette Sloyan
   education4:
 
 - name: Holly
   photo: holly.jpg
-  info: PhD Student, started November 2024
+  info: PhD Student, started July 2024
   email: b
   number_educ: 2
-  education1: BSc, Leiden University
-  education2: MSc, LMU Munich, with [Christian Pfleiderer](https://www.professoren.tum.de/en/pfleiderer-christian)
+  education1: Bachelor Environmental Management, University of Queensland
+  education2: Honours with Helen Bostock
   education3:
   education4:
 
