@@ -19,9 +19,9 @@
   education3: Postdoc University of Tasmania
   education4: Postdoc University of New South Wales
   
-- name: Molly
+- name: Molly Husdell
   photo: molly.png
-  info: PhD Student, started September 2021
+  info: PhD Student, started January 2023
   email: b
   number_educ: 2
   education1: Master Applied Physics, TU Delft
@@ -31,15 +31,15 @@
 
 - name: Sienna Blanckensee
   photo: sienna.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
+  info: PhD Student, started January 2023
   email: s.blanckensee@student.uq.edu.au
   number_educ: 2
   education1: BAdvSc (hons), University of Queensland
-  education2: PhD Candidate with Helen Bostock and David Gwyther
+  education2: PhD Candidate with Helen Bostock and David Gwyther, UQ 
   education3:
   education4:
 
-- name: Megan
+- name: Megan 
   photo: megan.jpg
   info: PhD Student, started July 2024
   email: m.jeffers@uq.edu.au
