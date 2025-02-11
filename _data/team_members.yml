@@ -29,13 +29,13 @@
   education3:
   education4:
 
-- name: Sienna
+- name: Sienna Blanckensee
   photo: sienna.png
   info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
+  email: s.blanckensee@student.uq.edu.au
   number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
+  education1: BAdvSc (hons), University of Queensland
+  education2: PhD Candidate with Helen Bostock and David Gwyther
   education3:
   education4:
 
