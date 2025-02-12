@@ -13,7 +13,7 @@
   photo: david.png
   info: Postdoc, started Jan 2023
   email: d.gwyther@uq.edu.au
-  number_educ: 2
+  number_educ: 5
   education1: BSc University of Queensland
   education2: PhD with <a href="https://www.antarctica.gov.au/science/meet-our-scientists/dr-ben-galton-fenzi/">Ben Galton-Fenzi</a> and <a href="https://www.antarctica.gov.au/science/meet-our-scientists/dr-jason-roberts/">Jason Roberts</a>, Australian Antarctic Division
   education3: Postdoc University of Tasmania
@@ -24,7 +24,7 @@
   photo: molly.png
   info: PhD Student, started January 2023
   email: b
-  number_educ: 2
+  number_educ: 3
   education1: BSc (hons), University of Queensland
   education2: PhD Candidate with Helen Bostock, UQ
   education3: Research Topic: 
@@ -34,31 +34,31 @@
   photo: Sienna_Blanckensee_headshot.JPG
   info: PhD Student, started January 2023
   email: s.blanckensee@student.uq.edu.au
-  number_educ: 2
+  number_educ: 3
   education1: BAdvSc (hons), University of Queensland
   education2: PhD Candidate with Helen Bostock and David Gwyther, UQ 
   education3: Research Topic: Antarctic Bottom Water (observations & modelling)
   education4:
 
-- name: Megan 
+- name: Megan Jeffers
   photo: megan.jpg
   info: PhD Student, started July 2024
   email: m.jeffers@uq.edu.au
-  number_educ: 3
+  number_educ: 4
   education1: Honours with Helen Bostock and David Gwyther
   education2: BAdvSc (hons), University of Queensland
   education3: PhD Candidate with Helen Bostock, David Gwyther, Chris Chapman and Bernadette Sloyan
   education4: Research Topic:
 
-- name: Holly
+- name: Holly Ellis
   photo: holly.jpg
   info: PhD Student, started July 2024
   email: b
-  number_educ: 2
+  number_educ: 4
   education1: Bachelor Environmental Management, University of Queensland
   education2: Honours with Helen Bostock
-  education3: Research Topic:
-  education4:
+  education3: PhD Candidate with Helen Bostock
+  education4: Research Topic:
 
 - name: "This could be you !"
   photo: rock.jpg
