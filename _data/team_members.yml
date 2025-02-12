@@ -18,15 +18,16 @@
   education2: PhD with <a href="https://www.antarctica.gov.au/science/meet-our-scientists/dr-ben-galton-fenzi/">Ben Galton-Fenzi</a> and <a href="https://www.antarctica.gov.au/science/meet-our-scientists/dr-jason-roberts/">Jason Roberts</a>, Australian Antarctic Division
   education3: Postdoc University of Tasmania
   education4: Postdoc University of New South Wales
+  education5: Research Topic:
   
 - name: Molly Husdell
   photo: molly.png
   info: PhD Student, started January 2023
   email: b
   number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
+  education1: BSc (hons), University of Queensland
+  education2: PhD Candidate with Helen Bostock, UQ
+  education3: Research Topic: 
   education4:
 
 - name: Sienna Blanckensee
@@ -36,7 +37,7 @@
   number_educ: 2
   education1: BAdvSc (hons), University of Queensland
   education2: PhD Candidate with Helen Bostock and David Gwyther, UQ 
-  education3:
+  education3: Research Topic: Antarctic Bottom Water (observations & modelling)
   education4:
 
 - name: Megan 
@@ -47,7 +48,7 @@
   education1: Honours with Helen Bostock and David Gwyther
   education2: BAdvSc (hons), University of Queensland
   education3: PhD Candidate with Helen Bostock, David Gwyther, Chris Chapman and Bernadette Sloyan
-  education4:
+  education4: Research Topic:
 
 - name: Holly
   photo: holly.jpg
@@ -56,7 +57,7 @@
   number_educ: 2
   education1: Bachelor Environmental Management, University of Queensland
   education2: Honours with Helen Bostock
-  education3:
+  education3: Research Topic:
   education4:
 
 - name: "This could be you !"
